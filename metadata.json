@@ -1,0 +1,8 @@
+{
+  "name": "GIPHY Clone - Pro GIF Platform",
+  "description": "A feature-rich GIPHY-style GIF sharing platform with smart search, trending content, and user collections powered by AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
